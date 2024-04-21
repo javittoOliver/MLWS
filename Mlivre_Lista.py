@@ -82,7 +82,7 @@ class GUI:
 
         #Rutas de imagenes
         directorio_actual = os.getcwd()
-        BG = r'img\ml.png'
+        BG = r'ml.png'
         ruta_archivo_b = os.path.join(directorio_actual, BG)
         self.bg_image=tk.PhotoImage(file= ruta_archivo_b)
         
