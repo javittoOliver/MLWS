@@ -3,10 +3,12 @@ El botón acciona la busqueda con éstos parámetros en Mercadolibre, a través 
 la url de cada publicación. Luego abre windows explorer para que se elija el nombre y ruta del archivo con la lista de productos en excel.
 
 Debe descargarse la imagen ml.png y guardarse en la misma carpeta que el script para que funcione.
+
 Está construído integramente con soporte de GPT.
 
 Python 3.9.13
 Librerias necesarias:
 
 pip intall pandas
+
 pip install requests
