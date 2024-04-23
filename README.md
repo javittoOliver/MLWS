@@ -13,5 +13,5 @@ pip intall pandas
 
 pip install requests
 
-En este link hay un portable, compilado con pyintaller: https://drive.google.com/file/d/1qtgKw4OPIn88nSrubJulkdK4lTQi99RE/view?usp=drive_link
+En este link hay un portable, compilado con pyinstaller: https://drive.google.com/file/d/1qtgKw4OPIn88nSrubJulkdK4lTQi99RE/view?usp=drive_link
 Es un zip, al descomprimir se puede ejecutar la app desde el .exe
